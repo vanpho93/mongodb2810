@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mongoose": "^4.13.5"
+  },
+  "name": "mongodb2810",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vanpho93/mongodb2810.git",
+  "author": "Van Pho Nguyen <vanpho02@gmail.com>",
+  "license": "MIT"
+}
